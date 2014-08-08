@@ -22,3 +22,8 @@ Pipe output from strategypy (assuming you have strategypy in ../)
 * ```python ../strategypy/strategypy/main.py killer prey prey | python strategypy-pygame-client/main.py```
 
 You can also pipe the output of strategypy main directly in the front end.
+
+Screenshoots
+------------
+
+![Alt text](http://i.imgur.com/PjeSOPF.png)
