@@ -12,7 +12,6 @@ Installation
 Quickstart
 ----------
 
-Example:
 * ```./play.sh```
 
 General usage
