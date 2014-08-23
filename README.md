@@ -23,3 +23,9 @@ Load json game:
 
 or pipe output from strategypy (assuming you have strategypy in ../)
 * ```python ../strategypy/strategypy/main.py killer prey prey | python strategypy-pygame-client/main.py```
+
+Screenshoots
+------------
+
+![Alt text](http://i.imgur.com/PjeSOPF.png)
+>>>>>>> 0b88d04ae31518ae9343f1de03b0a09886fd303f
